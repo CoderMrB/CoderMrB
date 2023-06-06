@@ -4,3 +4,5 @@
 - 📫 How to reach me: chrisbranson@live.co.uk
 - 😄 Pronouns: He / him / his
 
+![Codewars](https://github.r2v.ch/codewars?user=covchris)
+
