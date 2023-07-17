@@ -3,7 +3,7 @@
 - 👨‍🎓 I recently graduated the intensive School of Code bootcamp! 💻
 - 👨‍🏫 Before this I taught Psychology for 15 years 🧠
 - 🗣️
-- 📫 How to reach me: https://www.linkedin.com/in/chris-branson-83a988232/
+- 📫 You can reach me via <a href="https://www.linkedin.com/in/coderchrisb/"> linkedin </a>
 - 😄 Pronouns: He / him / his
 
 <img align ="left" width = "54%" src="https://github-readme-stats-chi-gilt.vercel.app/api?username=CoderMrB&show_icons=true&theme=radical"/>
