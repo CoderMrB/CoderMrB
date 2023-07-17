@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍🎓 I recently graduated the intensive School of Code bootcamp! 💻
+- 👨‍🎓 I recently graduated the intensive <strong>School of Code<strong> bootcamp! 💻
 - 👨‍🏫 Before this I taught Psychology for 15 years 🧠
 - 📫 I'm always happy to connect on <a href="https://www.linkedin.com/in/coderchrisb/"> linkedin </a> or at coderChrisB@outlook.com 📧
 - 🏷️ Pronouns: He / him / his 😺
