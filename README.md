@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning with school of code to move into a tech career.
+- 👨‍🎓 I recently graduated the intensive School of Code bootcamp! 💻
+- 👨‍🏫 Before this I taught Psychology for 15 years 🧠
+- 🗣️
 - 📫 How to reach me: https://www.linkedin.com/in/chris-branson-83a988232/
 - 😄 Pronouns: He / him / his
 
