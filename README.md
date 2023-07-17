@@ -1,4 +1,4 @@
-# Hi there 👋
+# Welcome! 👋
 
 <ul>
 👨‍🎓 I recently graduated the intensive <strong>School of Code</strong> bootcamp! 💻
