@@ -13,15 +13,19 @@
 🏷️ Pronouns: He / him / his 😺 
 </div>
 
-<br>
-<br>
+<br/>
+<br/>
 
 
 
 <img align ="left" width = "54%" src="https://github-readme-stats-chi-gilt.vercel.app/api?username=CoderMrB&show_icons=true&theme=radical"/>
-<a align = 'left' href = "https://www.codewars.com/users/covchris"><img width="40%" src="https://github.r2v.ch/codewars?user=covchris&top_languages=true&hide_clan=true" width="300"></a>
+<img align= 'right' width = '32%' src="https://github-readme-stats-chi-gilt.vercel.app/api/top-langs/?username=CoderMrB"/>
 
-<img align= 'center' width = '40%' src="https://github-readme-stats-chi-gilt.vercel.app/api/top-langs/?username=CoderMrB"/>
+<br/>
+<br/>
+<div align="center">
+<a align = 'center' href = "https://www.codewars.com/users/covchris"><img width="40%" src="https://github.r2v.ch/codewars?user=covchris&top_languages=true&hide_clan=true" width="300"></a>
+</div>
 
 
 
