@@ -2,8 +2,7 @@
 
 - 👨‍🎓 I recently graduated the intensive School of Code bootcamp! 💻
 - 👨‍🏫 Before this I taught Psychology for 15 years 🧠
-- 🗣️
-- 📫 You can reach me via <a href="https://www.linkedin.com/in/coderchrisb/" target="_blank"> linkedin </a>
+- 📫 You can reach me via <a href="https://www.linkedin.com/in/coderchrisb/"> linkedin </a> or at coderChrisB@outlook.com
 - 😄 Pronouns: He / him / his
 
 <img align ="left" width = "54%" src="https://github-readme-stats-chi-gilt.vercel.app/api?username=CoderMrB&show_icons=true&theme=radical"/>
