@@ -1,4 +1,5 @@
 <h1 align= "center"> 👋Welcome! I'm Chris.</h1>
+<br>
 
 <div align="center">
 👨‍🎓 I recently graduated the intensive <strong>School of Code</strong> bootcamp! 💻  
@@ -11,6 +12,9 @@
     <div align="center">
 🏷️ Pronouns: He / him / his 😺 
 </div>
+
+<br>
+<br>
 
 
 
