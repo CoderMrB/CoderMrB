@@ -1,10 +1,17 @@
 <h1 align= "center"> 👋Welcome! I'm Chris.</h1>
 
-
+<div align="center">
 👨‍🎓 I recently graduated the intensive <strong>School of Code</strong> bootcamp! 💻  
-👨‍🏫 Before this I taught Psychology for 15 years 🧠  
+  </div>
+<div align="center">
+👨‍🏫 Before this I taught <strong>Psychology</strong> for 15 years 🧠 
+  </div>
+  <div align="center">
 📫 I'm always happy to connect on <a href="https://www.linkedin.com/in/coderchrisb/"> linkedin </a> or at coderChrisB@outlook.com 📧  
-🏷️ Pronouns: He / him / his 😺  
+    <div align="center">
+🏷️ Pronouns: He / him / his 😺 
+</div>
+
 
 
 <img align ="left" width = "54%" src="https://github-readme-stats-chi-gilt.vercel.app/api?username=CoderMrB&show_icons=true&theme=radical"/>
