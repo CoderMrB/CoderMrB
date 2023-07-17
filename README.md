@@ -4,6 +4,8 @@
 - 📫 How to reach me: https://www.linkedin.com/in/chris-branson-83a988232/
 - 😄 Pronouns: He / him / his
 
+- ![Anurag's GitHub stats](https://github-readme-stats-chi-gilt.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <a href = "https://www.codewars.com/users/covchris"><img src="https://github.r2v.ch/codewars?user=covchris&top_languages=true&hide_clan=true" width="300"></a>
 
 
