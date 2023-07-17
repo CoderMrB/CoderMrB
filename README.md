@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style:"font-size=16px">
+<div style:"font-size=32px">
 - 👨‍🎓 I recently graduated the intensive <strong>School of Code</strong> bootcamp! 💻
 - 👨‍🏫 Before this I taught Psychology for 15 years 🧠
 - 📫 I'm always happy to connect on <a href="https://www.linkedin.com/in/coderchrisb/"> linkedin </a> or at coderChrisB@outlook.com 📧
