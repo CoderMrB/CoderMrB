@@ -1,4 +1,4 @@
-<h1 align= "center"> 👋Welcome! I'm Chris/h1>
+<h1 align= "center"> 👋Welcome! I'm Chris</h1>
 
 <ul>
 👨‍🎓 I recently graduated the intensive <strong>School of Code</strong> bootcamp! 💻
