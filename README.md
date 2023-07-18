@@ -1,4 +1,4 @@
-![](https://github.com/CoderMrB/Gif-repo/blob/main/Untitled%20design-Optimized.gif)
+<img align="center" width=50% src="https://github.com/CoderMrB/Gif-repo/blob/main/Untitled%20design-Optimized.gif"/>
 
 <h1 align= "center"> 👋 &nbsp Welcome! I'm Chris.</h1>
 
