@@ -4,14 +4,15 @@
 <h3 align="center">
 👨‍🎓 &nbsp&nbsp I recently graduated the intensive <strong>School of Code</strong> bootcamp!&nbsp&nbsp 💻  
   </h3>
-<div align="center">
+<h3 align="center">
 👨‍🏫 &nbsp&nbsp Before this I taught <strong>Psychology</strong> for 15 years&nbsp&nbsp 🧠 
-  </div>
-  <div align="center">
+  </h3>
+  <h3 align="center">
 📫  &nbsp&nbspI'm always happy to connect on <strong><a href="https://www.linkedin.com/in/coderchrisb/"> linkedin </a></strong> or at  <strong>coderChrisB@outlook.com</strong>&nbsp&nbsp 📧  
-   <div align="center">
+  </h3>
+  <h3 align="center">
 🏷️ &nbsp&nbsp Pronouns: He / him / his &nbsp😺
-</div>
+</h3>
   </br>
     
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=Flat&logo=html5&logoColor=white)
