@@ -12,7 +12,6 @@
   <h3 align="center">
 🏷️ &nbsp&nbsp Pronouns: He / him / his &nbsp😺
 </h3>
-  </br>
 <hr>
 <div align='center'>
     
@@ -36,8 +35,7 @@
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=Flat&logo=figma&logoColor=white)
 
 </div>
-
-<br/>
+<hr>
 <br/>
 
 <img align ="left" width = "54%" src="https://github-readme-stats-chi-gilt.vercel.app/api?username=CoderMrB&show_icons=true&theme=radical" alt="Github stats card for CoderMrB. If I didn't load, a quick page-refresh should sort it!"/>
