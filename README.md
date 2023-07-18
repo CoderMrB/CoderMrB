@@ -1,5 +1,4 @@
 <h1 align= "center"> 👋 &nbsp Welcome! I'm Chris.</h1>
-<br>
 
 <h3 align="center">
 👨‍🎓 &nbsp&nbsp I recently graduated the intensive <strong>School of Code</strong> bootcamp!&nbsp&nbsp 💻  
@@ -14,7 +13,7 @@
 🏷️ &nbsp&nbsp Pronouns: He / him / his &nbsp😺
 </h3>
   </br>
-
+<hr>
 <div align='center'>
     
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=Flat&logo=html5&logoColor=white)
