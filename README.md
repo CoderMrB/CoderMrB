@@ -1,22 +1,22 @@
 <h1 align= "center"> 👋 &nbsp Welcome! I'm Chris.</h1>
 
 <h3 align="center">
-👨‍🎓 &nbsp&nbsp I recently graduated the intensive <strong>School of Code</strong> bootcamp!&nbsp&nbsp 💻  
+👨‍🎓 &nbsp&nbsp I recently graduated the intensive <strong>School of Code</strong> bootcamp!&nbsp&nbsp   
   </h3>
 <h3 align="center">
-👨‍🏫 &nbsp&nbsp Before this I taught <strong>Psychology</strong> for 15 years&nbsp&nbsp 🧠 
+👨‍🏫 &nbsp&nbsp Before this I taught <strong>Psychology</strong> for 15 years&nbsp&nbsp 
   </h3>
   <h3 align="center">
-🥳 &nbsp&nbsp Chomping at the bit (pun intended) to start building and learning in a junior dev role! &nbsp&nbsp 💥
+🥳 &nbsp&nbsp Chomping at the bit (pun intended) to start building and learning in a junior dev role! &nbsp&nbsp 
   </h3>
   <h3 align="center">
-📫  &nbsp&nbspI'm always happy to connect on <strong><a href="https://www.linkedin.com/in/coderchrisb/"> linkedin </a></strong> or at  <strong>coderChrisB@outlook.com</strong>&nbsp&nbsp 📧  
+📫  &nbsp&nbspI'm always happy to connect on <strong><a href="https://www.linkedin.com/in/coderchrisb/"> linkedin </a></strong> or at  <strong>coderChrisB@outlook.com</strong>&nbsp&nbsp
     <h3 align="center">
- 🎦 &nbsp&nbsp Hobbies include cinema, reading, and retro video games collecting &nbsp&nbsp 👾
+ 🎦 &nbsp&nbsp Hobbies include cinema, reading, and retro video games collecting &nbsp&nbsp
   </h3>
   </h3>
   <h3 align="center">
-🏷️ &nbsp&nbsp Pronouns: He / him / his &nbsp😺
+🏷️ &nbsp&nbsp Pronouns: He / him / his &nbsp
 </h3>
 <hr>
 <div align='center'>
