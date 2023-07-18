@@ -1,19 +1,17 @@
 <h1 align= "center"> 👋Welcome! I'm Chris.</h1>
 <br>
- <pre>
+
 <div align="center">
- 
-👨‍🎓   I recently graduated the intensive <strong>School of Code</strong> bootcamp!      💻  
-  
+👨‍🎓 &nbsp&nbsp I recently graduated the intensive <strong>School of Code</strong> bootcamp!&nbsp&nbsp 💻  
   </div>
 <div align="center">
-👨‍🏫  Before this I taught <strong>Psychology</strong> for 15 years  🧠 
+👨‍🏫 &nbsp&nbsp Before this I taught <strong>Psychology</strong> for 15 years&nbsp&nbsp 🧠 
   </div>
   <div align="center">
-📫  I'm always happy to connect on <strong><a href="https://www.linkedin.com/in/coderchrisb/"> linkedin </a></strong> or at  <strong>coderChrisB@outlook.com</strong> 📧  
-    <div align="center">
-  </pre>
-🏷️ Pronouns: He / him / his 😺 
+📫  &nbsp&nbspI'm always happy to connect on <strong><a href="https://www.linkedin.com/in/coderchrisb/"> linkedin </a></strong> or at  <strong>coderChrisB@outlook.com</strong>&nbsp&nbsp 📧  
+   <div align="center">
+🏷️ &nbsp&nbsp Pronouns: He / him / his &nbsp😺
+</div>
 
 
   </br>  </br>
@@ -28,6 +26,7 @@
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
     ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+ 
 
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
