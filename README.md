@@ -1,8 +1,10 @@
 <h1 align= "center"> 👋Welcome! I'm Chris.</h1>
 <br>
-
+ <pre>
 <div align="center">
-👨‍🎓  I recently graduated the intensive <strong>School of Code</strong> bootcamp!  💻  
+ 
+👨‍🎓   I recently graduated the intensive <strong>School of Code</strong> bootcamp!      💻  
+  
   </div>
 <div align="center">
 👨‍🏫  Before this I taught <strong>Psychology</strong> for 15 years  🧠 
@@ -10,7 +12,9 @@
   <div align="center">
 📫  I'm always happy to connect on <strong><a href="https://www.linkedin.com/in/coderchrisb/"> linkedin </a></strong> or at  <strong>coderChrisB@outlook.com</strong> 📧  
     <div align="center">
+  </pre>
 🏷️ Pronouns: He / him / his 😺 
+
 
   </br>  </br>
 
@@ -37,6 +41,7 @@
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
+
  
 
 
