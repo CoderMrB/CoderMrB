@@ -12,7 +12,7 @@
   <h3 align="center">
 📫  &nbsp&nbsp Always pleased to make a new connection <strong><a href="https://www.linkedin.com/in/coderchrisb/"> on linkedin </a></strong> or at  <strong>coderChrisB@outlook.com</strong>&nbsp&nbsp
     <h3 align="center">
- 🎦 &nbsp&nbsp Hobbies include cinema, reading, and retro video games collecting &nbsp&nbsp
+ 🎦 &nbsp&nbsp Eclectic interests in cinema, books, and retro video games &nbsp&nbsp
   </h3>
   </h3>
   <h3 align="center">
