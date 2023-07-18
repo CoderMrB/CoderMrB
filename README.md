@@ -10,7 +10,7 @@
 🥳 &nbsp&nbsp Chomping at the bit (pun intended) to start building and learning in a junior dev role! &nbsp&nbsp 
   </h3>
   <h3 align="center">
-📫  &nbsp&nbspI'm always happy to connect on <strong><a href="https://www.linkedin.com/in/coderchrisb/"> linkedin </a></strong> or at  <strong>coderChrisB@outlook.com</strong>&nbsp&nbsp
+📫  &nbsp&nbsp Always pleased to make a new connection <strong><a href="https://www.linkedin.com/in/coderchrisb/"> on linkedin </a></strong> or at  <strong>coderChrisB@outlook.com</strong>&nbsp&nbsp
     <h3 align="center">
  🎦 &nbsp&nbsp Hobbies include cinema, reading, and retro video games collecting &nbsp&nbsp
   </h3>
