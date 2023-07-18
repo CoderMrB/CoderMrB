@@ -1,5 +1,5 @@
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/CoderMrB/Gif-repo/blob/main/Untitled%20design-Optimized.gif
-)
+![](https://github.com/CoderMrB/Gif-repo/blob/main/Untitled%20design-Optimized.gif)
+
 <h1 align= "center"> 👋 &nbsp Welcome! I'm Chris.</h1>
 
 <h4 align="center">
