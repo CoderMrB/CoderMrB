@@ -1,25 +1,27 @@
 <h1 align= "center"> 👋 &nbsp Welcome! I'm Chris.</h1>
 
-<h3 align="center">
+<h4 align="center">
 👨‍🎓 &nbsp&nbsp I recently graduated the intensive <strong>School of Code</strong> bootcamp!&nbsp&nbsp   
-  </h3>
-<h3 align="center">
+  </h4>
+<h4 align="center">
 👨‍🏫 &nbsp&nbsp Before this I taught <strong>Psychology</strong> for 15 years&nbsp&nbsp 
-  </h3>
-  <h3 align="center">
+  </h4>
+  <h4 align="center">
 🥳 &nbsp&nbsp Chomping at the bit (pun intended) to start building and learning in a junior dev role! &nbsp&nbsp 
-  </h3>
-  <h3 align="center">
+  </h4>
+  <h4 align="center">
 📫  &nbsp&nbsp Always pleased to make a new connection <strong><a href="https://www.linkedin.com/in/coderchrisb/"> on linkedin </a></strong> or at  <strong>coderChrisB@outlook.com</strong>&nbsp&nbsp
-    <h3 align="center">
+    <h4 align="center">
  🎦 &nbsp&nbsp Eclectic interests in cinema, books, and retro video games &nbsp&nbsp
-  </h3>
-  </h3>
-  <h3 align="center">
+  </h4>
+  </h4>
+  <h4 align="center">
 🏷️ &nbsp&nbsp Pronouns: He / him / his &nbsp
-</h3>
+</h4>
 <hr>
 <div align='center'>
+
+<h2>🧰Tech and tools</h2>
     
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=Flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=Flat&logo=css3&logoColor=white)
