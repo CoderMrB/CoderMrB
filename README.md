@@ -21,7 +21,7 @@
 <hr>
 <div align='center'>
 
-<h2>🧰Tech and tools</h2>
+<h3> 🛒 &nbsp &nbsp So far I've picked up...</h3>
     
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=Flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=Flat&logo=css3&logoColor=white)
