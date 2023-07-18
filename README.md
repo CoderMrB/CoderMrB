@@ -44,8 +44,8 @@
 
 </div>
 <hr>
-<br/>
-<h3 align="center"> :chart_with_upwards_trend: &nbsp &nbsp Stats &nbsp &nbsp (🎵the way aha-aha I learn it, aha-aha) </h3>
+<h3 align="center"> :chart_with_upwards_trend: &nbsp Stats</h3>
+<h5 align="center"> &nbsp &nbsp (🎵the way aha-aha I learn it, aha-aha) </h5>
 
 | <img align ="center" width = "100%" src="https://github-readme-stats-chi-gilt.vercel.app/api?username=CoderMrB&show_icons=true&theme=radical" alt="Github stats card for CoderMrB. If I didn't load, a quick page-refresh should sort it!"/> | <img align= 'center' width = '100%' src="https://github-readme-stats-chi-gilt.vercel.app/api/top-langs/?username=CoderMrB" alt="Github top languages card for CoderMrB. If I didn't load, a quick page-refresh should sort it!"/> | <a href="https://www.codewars.com/users/covchris"><img width="90%" src="https://github.r2v.ch/codewars?user=covchris&top_languages=true&hide_clan=true" alt="Codewars stats for CoderMrB"></a> |
 |---|---|---|
