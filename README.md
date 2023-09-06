@@ -52,7 +52,9 @@
 
 </div>
 
-[![Badge: SANS Foundations Alumni](https://api.badgr.io/public/assertions/APVnel5MSwCGY97nl9OvJw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=chrisbranson%40live.co.uk)](https://api.badgr.io/public/assertions/APVnel5MSwCGY97nl9OvJw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=chrisbranson%40live.co.uk)
+![Badge: SANS Foundations Alumni](https://api.badgr.io/public/assertions/APVnel5MSwCGY97nl9OvJw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=chrisbranson%40live.co.uk)]
+
+https://api.badgr.io/public/assertions/APVnel5MSwCGY97nl9OvJw?identity__email=chrisbranson%40live.co.uk
 
 
 <hr>
