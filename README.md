@@ -8,6 +8,9 @@
 👨‍🎓 &nbsp&nbsp I recently graduated the intensive <strong>School of Code</strong> bootcamp!&nbsp&nbsp   
   </h4>
 <h4 align="center">
+:books: &nbsp&nbsp I'm currently studying on the <strong>>SANS Institute's 'Upskill in Cyber Programme' </strong> (so github activity will be subdued  July - November) &nbsp&nbsp   
+  </h4>
+<h4 align="center">
 👨‍🏫 &nbsp&nbsp Before this I taught <strong>Psychology</strong> for 15 years&nbsp&nbsp 
   </h4>
   <h4 align="center">
