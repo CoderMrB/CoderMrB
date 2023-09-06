@@ -52,7 +52,9 @@
 
 </div>
 
+<div align="center">
 <a href="https://api.badgr.io/public/assertions/APVnel5MSwCGY97nl9OvJw"><img width="120px" height="120px" src="https://media.badgr.com/uploads/badges/assertion-APVnel5MSwCGY97nl9OvJw.svg"></a>
+</div>
 
 
 <hr>
