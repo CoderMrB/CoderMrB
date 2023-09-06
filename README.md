@@ -51,8 +51,9 @@
 <h3 align="center"> :chart_with_upwards_trend: &nbsp Stats</h3>
 <h5 align="center"> &nbsp &nbsp (🎵the way aha-aha I learn it, aha-aha) </h5>
 
-<a align="center" href="https://www.codewars.com/users/covchris"><img width="90%" src="https://github.r2v.ch/codewars?user=covchris&top_languages=true&hide_clan=true" alt="Codewars stats for CoderMrB"></a>
-
+<div align="center">
+<a href="https://www.codewars.com/users/covchris"><img width="90%" src="https://github.r2v.ch/codewars?user=covchris&top_languages=true&hide_clan=true" alt="Codewars stats for CoderMrB"></a>
+</div>
 
 
 
