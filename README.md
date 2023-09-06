@@ -14,10 +14,7 @@
 <h4 align="center">
 👨‍🏫 &nbsp&nbsp Before this I taught <strong>Psychology</strong> for 15 years&nbsp&nbsp 
   </h4>
-  <h4 align="center">
-🥳 &nbsp&nbsp Chomping at the bit (pun intended) to start building and learning in a junior dev role! &nbsp&nbsp 
-  </h4>
-  <h4 align="center">
+   <h4 align="center">
 📫  &nbsp&nbsp Always pleased to make a new connection <strong><a href="https://www.linkedin.com/in/coderchrisb/"> on linkedin </a></strong> or at  <strong>coderChrisB@outlook.com</strong>&nbsp&nbsp
     <h4 align="center">
  🎦 &nbsp&nbsp Eclectic interests in cinema, books, and retro video games &nbsp&nbsp
