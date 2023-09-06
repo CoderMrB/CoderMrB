@@ -51,7 +51,7 @@
 <h3 align="center"> :chart_with_upwards_trend: &nbsp Codewars Stats</h3>
 
 <div align="center">
-<a href="https://www.codewars.com/users/covchris"><img width="90%" src="https://github.r2v.ch/codewars?user=covchris&top_languages=true&hide_clan=true" alt="Codewars stats for CoderMrB"></a>
+<a href="https://www.codewars.com/users/covchris"><img width="60%" src="https://github.r2v.ch/codewars?user=covchris&top_languages=true&hide_clan=true" alt="Codewars stats for CoderMrB"></a>
 </div>
 
 
