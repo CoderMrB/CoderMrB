@@ -51,7 +51,7 @@
 
 <div align="center">
 <a href="https://api.badgr.io/public/assertions/APVnel5MSwCGY97nl9OvJw"><img width="120px" height="120px" src="https://media.badgr.com/uploads/badges/assertion-APVnel5MSwCGY97nl9OvJw.svg"></a>
-</div>
+<a href="https://www.credly.com/badges/aa3a0b30-9dc5-4c74-b23b-d233843904fd/public_url"> <p>Link to badge</p></a>
 
 
 <hr>
